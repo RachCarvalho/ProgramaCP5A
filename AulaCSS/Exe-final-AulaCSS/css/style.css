@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Raleway:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400;1,500&display=swap');
+
+.title {
+    font-family: Cambria;
+    font-style: italic;
+    color: lightseagreen;
+    background-color: rgba(217, 221, 198, 0.623);
+    border-radius: 15px;
+    margin: auto;
+    width: 55%;
+}
+body {
+    background-color:rgb(237, 245, 250);
+    font-family: sans-serif;
+    text-align: center;
+    }
+
+.center {
+        margin: auto;
+        width: 20px;
+}
+
+.card {
+    margin-top: 8px;
+    padding: 8px;
+    border-width: 1px;
+    border-radius: 15px;
+    border-color: none;
+    }
+
+.card-title {
+    font-family: oswald;
+    color: rgb(65, 119, 189);
+    font-size: 24px;
+    font-weight: 800;
+    }
+
+.card-content {
+    font-family: raleway;
+    font-size: 17px;
+    
+}
+#html {
+    background-color: rgba(243, 233, 144, 0.596);
+    margin-bottom: 10px;
+    position: absolute;
+    top: 73px;
+    right: auto;
+    left: 250px;
+    width: 150px;
+    height: 180px;
+}
+
+#css {
+    background-color: rgba(131, 206, 206, 0.384);
+    position: absolute;
+    top: 73px;
+    right: auto;
+    left: 460px;
+    width: 150px;
+    height: 180px;
+}
+
+#js {
+    background-color: rgba(155, 136, 199, 0.459);
+    position: absolute;
+    top: 73px;
+    right: auto;
+    left: 670px;
+    width: 150px;
+    height: 180px;
+}
