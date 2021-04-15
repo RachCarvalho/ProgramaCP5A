@@ -1,0 +1,30 @@
+#item-1 { background-color: blue; }
+#item-2 { background-color: red; }
+#item-3 { background-color: greenyellow; }
+#item-4 { background-color: blueviolet; }
+#item-5 { background-color: limegreen}
+#item-6 { background-color: darkorange}
+#item-7 { background-color: darkgreen}
+#item-8 { background-color: dimgray}
+#item-9 { background-color: fuchsia }
+.item {
+  text-align: center;
+  box-sizing: border-box;
+  padding: 20px;
+  width: 150px;
+  margin: 10px;
+}
+.content {
+  height: 100vh;
+  background-color: yellow;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  align-content: flex-start;
+}
+
+
+
+
