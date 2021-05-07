@@ -1,0 +1,38 @@
+h1{
+    background-color: rgb(240, 68, 0);
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+#form{
+    display: none;
+}
+
+.prev{
+    position:relative;
+    display: inline-table;
+    background-color: rgb(241, 241, 241);
+    width: 20%;
+    border-radius: 2%;
+    text-align: center;
+    margin: .5%;
+    padding: .5%;
+}
+
+card{
+    position:relative;
+    display: inline-table;
+    border: outset;
+    background-color: rgb(255, 255, 254);
+    width: 5%;
+    height: 20px;
+    border-radius: 2%;
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+}
+
+img{
+    width: 12rem;
+    height: 10rem;
+}

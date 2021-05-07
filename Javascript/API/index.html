@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Consulta país</title>
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1 class="text-center h1">Informações de cada país</h1>
+
+    <form class="form">
+      <label for="id-pais">Selecione o país:</label>
+      <select id="id-pais" name="pais">
+        <option value="" required>-- Selecione uma opção --</option>
+        <option value="kkkkkkkkkkkkkk">Melhor país do mundo</option>
+      </select>
+    </form>
+  </header>
+  <main class="space">
+    <p>Nome: </p><span id="nome">Sem conteúdo</span>
+    <hr>
+    <p>Sigla: </p><span id="sigla">Sem conteúdo</span>
+    <hr>
+    <p>Capital: </p><span id="capital">Sem conteúdo</span>
+    <hr>
+    <p>Região: </p><span id="regiao">Sem conteúdo</span>
+    <hr>
+    <p>DDI: </p><span id="ddi">Sem conteúdo</span>
+  </main>
+
+  <script src="js/ajax.js"></script>
+</body>
+</html>

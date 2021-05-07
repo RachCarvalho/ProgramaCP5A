@@ -1,0 +1,47 @@
+body {
+    font-family: 'Arial Narrow', 'Franklin Gothic Medium', Arial, sans-serif;
+    width: 60%;
+    margin: 0 auto;
+    font-size: 16px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .h1 {
+    margin-top: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  .block {
+    display: block;
+  }
+  
+  .form {
+    margin-top: 2rem;
+    background-color: lightgrey;
+  }
+
+  .space {
+    background-color: rgb(247, 255, 255);
+    
+  }
+  
+  p {
+    display: inline-block;
+    line-height: 2.5rem;
+    font-weight: bold;
+    width: 13%;
+    font-size: 1.2rem;
+  }
+  
+  span {
+    display: inline-block;
+    width: 50%;
+    font-size: 1.2rem;
+
+    
+  }

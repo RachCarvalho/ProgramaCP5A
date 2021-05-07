@@ -1,0 +1,10 @@
+.anime1 {
+    width: 400px;
+    background-color:aquamarine;
+ 
+}
+
+.anime1:hover {
+    width: 450px;
+    background-color: cyan;
+}

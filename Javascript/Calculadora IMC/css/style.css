@@ -1,0 +1,38 @@
+body{
+    margin: auto;
+}
+pre{
+    text-align: center;
+    
+}
+label, input{
+    font-family: 'Calibri';
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+h1{
+    text-align: center;
+}
+#form, #resultado{
+    background-color: rgb(250, 249, 248);
+    width: 20%;
+    margin: auto;
+    padding: 1%;
+    margin-top: 2%;
+}
+#btn{
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+#resultadoIMC{
+    margin: auto;
+    display: inline;
+    justify-content:flex-start;
+    align-items: flex-start;
+    margin-top: 5%;
+}
+
